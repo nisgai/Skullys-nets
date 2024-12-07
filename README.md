@@ -17,7 +17,11 @@ my tool was made for certain purposes
     
 ## whats gonna be added in the future
 d0x tracker (a tool apart of skullys net)
+
+
 full on osint tool called : Skullys osint (its gonna be in the nets menu but it will turn on the tool from there)
+
+
 a update tab : just tells you about updates etc
 ## quotes
 skully is like a net
