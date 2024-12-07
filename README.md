@@ -14,3 +14,5 @@ heres the table of whats gonna be added:
 > is the number one tool for anything
 > enjoy
 (disclaimer!: if my tool is used for anything bad im not apart of anything that happens ty)
+> the update has been added!!!
+
