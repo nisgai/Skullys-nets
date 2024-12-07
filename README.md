@@ -9,19 +9,8 @@ heres the table of whats gonna be added:
 > a good osint
 > database look ups (you will have to add a database on it on a document file !)
 > and more that are suprises!
-          ___               ___ ___                                    ___               
-         (   )             (   |   )                                  (   )              
-    .--.  | |   ___ ___  ___| | | |___  ___   .--.     ___ .-.   .--.  | |_      .--.    
-  /  _  \ | |  (   |   )(   ) | | (   )(   )/  _  \   (   )   \ /    \(   __)  /  _  \   
- . .' `. ;| |  ' /  | |  | || | | || |  | |. .' `. ;   |  .-. .|  .-. ;| |    . .' `. ;  
- | '   | || |,' /   | |  | || | | || |  | || '   | |   | |  | ||  | | || | ___| '   | |  
- _\_`.(___) .  '.   | |  | || | | || '  | |_\_`.(___)  | |  | ||  |/  || |(   )\_`.(___) 
-(   ). '. | | `. \  | |  | || | | |'  `-' (   ). '.    | |  | ||  ' _.'| | | (   ). '.   
- | |  `\ || |   \ \ | |  ; '| | | | `.__. || |  `\ |   | |  | ||  .'.-.| ' | || |  `\ |  
- ; '._,' '| |    \ .' `-'  /| | | | ___ | |; '._,' '   | |  | |'  `-' /' `-' ;; '._,' '  
-  '.___.'(___ ) (___)'.__.'(___|___|   )' | '.___.'   (___)(___)`.__.'  `.__.  '.___.'   
-                                    ; `-' '                                              
-                                     .__.'
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dhack%2520security&psig=AOvVaw2GaNZxB0lsG82l5qpr_MTS&ust=1733679239790000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDfw-OYlooDFQAAAAAdAAAAABAJ)
+
 > is the number one tool for anything
 > enjoy
 (disclaimer!: if my tool is used for anything bad im not apart of anything that happens ty)
