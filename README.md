@@ -13,7 +13,8 @@ my tool was made for certain purposes
 7. Slowloris Attack
 8. HULK Attack
 9. Port Scanner
-10. Exit
+10. Network Scanner (Wireshark) new option!!!!
+11. Exit
     
 ## whats gonna be added in the future
 d0x tracker (a tool apart of skullys net)
